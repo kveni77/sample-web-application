@@ -10,5 +10,5 @@ and build the instruction .
 
 # Deploy instruction
 
-deploy ```target/WebApp.war``` on tomcat properly for BETTER experience.
+Deploy ```target/WebApp.war``` on Tomcat properly for better experience.
 
